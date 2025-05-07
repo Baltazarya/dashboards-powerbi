@@ -9,7 +9,7 @@ Este dashboard analisa a venda de frutas entre 2022-2023.
 
 
 ## 📁 Arquivos
-- `Dash Vendas.pbix`: arquivo original do Power BI.
+- `Dash Venda.pbix`: arquivo original do Power BI.
 - `dash-vendas.png`: imagem de visualização do dashboard.
 
 ![Visualização do dashboard](./dash-vendas.png)
