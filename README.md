@@ -10,7 +10,7 @@ Este repositório contém dashboards desenvolvidos por mim utilizando o Power BI
 
 - **Venda de frutas**  
   Dashboard que mostra a venda de frutas por tipo e fazenda.  
-  📂 [`/Venda`](./Venda)
+  📂 [`/Vendas`](./Vendas)
 
 - **Financeiro**  
   Dashboard de entradas e saídas de uma empresa por setor.  
