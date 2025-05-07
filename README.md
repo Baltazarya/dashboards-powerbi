@@ -4,7 +4,7 @@ Este repositório contém dashboards desenvolvidos por mim utilizando o Power BI
 
 ## Projetos
 
-- **Logistica de Transporte **  
+- **Logistica de Transporte**  
   Dashboard para uma empresa de transporte analisando os tipos de transporte e quais locais mais arrecadam com mapa interativo.  
   📂 [`/Logistica`](./Desemprego)
 
@@ -12,6 +12,6 @@ Este repositório contém dashboards desenvolvidos por mim utilizando o Power BI
   Dashboard que mostra a venda de frutas por tipo e fazenda.  
   📂 [`/Venda`](./Venda)
 
-  - **Financeiro**  
+- **Financeiro**  
   Dashboard de entradas e saídas de uma empresa por setor.  
   📂 [`/Financeiro`](./Financeiro)
