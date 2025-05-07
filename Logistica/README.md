@@ -9,7 +9,7 @@ Este dashboard analisa as entregas, taxa de on time delivery e frete para uma em
 
 
 ## 📁 Arquivos
-- `dash.pbix`: arquivo original do Power BI.
-- `dash.png`: imagem de visualização do dashboard.
+- `Dash Logistica.pbix`: arquivo original do Power BI.
+- `dash-logistica.png`: imagem de visualização do dashboard.
 
-![Visualização do dashboard](./dash-.png)
+![Visualização do dashboard](./dash-logistica.png)
